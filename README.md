@@ -38,7 +38,8 @@ Estrela do Topo         Altura                4,7
 
 Processo de Montagem
 
-Etapa 1: Organização das Peças
+## Etapa 1: Organização das Peças
+![etapa 1]('./images/base_vazia.jpg')
 Tempo: 5 minutos
 
 1. Separar todas as peças sobre uma superfície plana
@@ -59,7 +60,9 @@ Resultado: Todas as peças estão organizadas e em bom estado.
 
 ---
 
-Etapa 2: Posicionamento da Base com Eixo Central
+## Etapa 2: Posicionamento da Base com Eixo Central
+
+![etapa2]('./images/eixo_principal_na_base.jpg')
 Tempo: 5 minutos
 
 1. Posicionar a caixa base sobre a bancada de trabalho com a abertura para cima
@@ -75,7 +78,9 @@ Verificação:
 
 ---
 
-Etapa 3: Posicionamento das Primeiras Engrenagens
+## Etapa 3: Posicionamento das Primeiras Engrenagens
+
+![etapa3]('./images/todas_engrenagens_posici.jpg')
 Tempo: 10 minutos
 
 Engrenagem com Pino (Extremidade):
@@ -102,7 +107,7 @@ Verificação:
 
 ---
 
-Etapa 4: Posicionamento das Engrenagens Restantes
+## Etapa 4: Posicionamento das Engrenagens Restantes
 Tempo: 15 minutos
 
 Engrenagens Secundárias:
@@ -126,7 +131,8 @@ Resultado: Todas as engrenagens posicionadas e engrenando corretamente.
 
 ---
 
-Etapa 5: Fechamento da Primeira Camada
+## Etapa 5: Fechamento da Primeira Camada
+![etapa3]('./images/primeira_tampa_colocada.jpg')
 Tempo: 10 minutos
 
 1. Verificar a tampa intermediária (onde as gavetas de resistores serão acopladas)
@@ -143,7 +149,7 @@ Verificação:
 
 ---
 
-Etapa 6: Teste de Rotação Após Cobrimento da Primeira Camada
+## Etapa 6: Teste de Rotação Após Cobrimento da Primeira Camada
 Tempo: 5 minutos
 
 1. Girando o eixo central (que agora está parcialmente coberto), verificar se continua livre
@@ -163,7 +169,8 @@ Verificação:
 
 ---
 
-Etapa 7: Posicionamento das Gavetas de Resistor
+## Etapa 7: Posicionamento das Gavetas de Resistor
+![etapa3]('./images/image.jpg')
 Tempo: 10 minutos
 
 1. Preparar as 5 gavetas de resistor
@@ -187,7 +194,8 @@ Verificação:
 
 ---
 
-Etapa 8: Fechamento com Tampa de Cima
+## Etapa 8: Fechamento com Tampa de Cima
+![etapa3]('./images/Image_dois.jpg')
 Tempo: 10 minutos
 
 1. Preparar a tampa de cima
@@ -204,7 +212,7 @@ Verificação:
 
 ---
 
-Etapa 9: Enroscamento do Segurador de Cima
+## Etapa 9: Enroscamento do Segurador de Cima
 Tempo: 5 minutos
 
 1. Preparar o segurador de cima
@@ -223,7 +231,7 @@ Resultado: Sistema completamente montado e funcional
 
 ---
 
-Medições Finais
+# Medições Finais
 
 As medições foram realizadas com paquímetro digital após a montagem completa:
 
